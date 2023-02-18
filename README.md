@@ -12,5 +12,3 @@ This tool allows you to convert json files, and csv files into kml files which i
 ![image](https://user-images.githubusercontent.com/98244802/219873538-736d626a-8e66-4d1f-81ba-5426ff1734ac.png)
 ![image](https://user-images.githubusercontent.com/98244802/219873593-fac2c676-2a04-4d41-a197-42c8d8698acf.png)
 
-# Other
-If you like the tool be sure to star it or share it with your friends. 
