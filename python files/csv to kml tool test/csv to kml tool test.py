@@ -28,4 +28,7 @@ def csvToKML(yesName, yesDescription, name, desc, lon, lat):
         print("File " + csvFileTarget + ".kml has been created and saved!")
         print("File will show up, once you exit the program!")
  #Take a look at the csv test file to understand 
+#For all aspect
 csvToKML(True, True, 0, 1, 3, 2)
+#For just coordinates
+csvToKML(False, False, "", "", 3, 2)
