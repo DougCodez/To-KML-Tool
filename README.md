@@ -1,5 +1,5 @@
 # What Is This Tool?
-This tool allows you to convert json files, and csv files into kml files which is Google Earth Pro file extension
+This tool allows you to convert json files, and csv files into kml files which is Google Earth Pro's file extension
 
 # How Do I Use It?
 1. Copy and paste the python code into your IDE (PyCharm, VSCode, etc) and run the script.
